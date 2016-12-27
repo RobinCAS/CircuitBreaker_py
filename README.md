@@ -1,14 +1,12 @@
-# short-circuit
+# CircuitBreaker example
 
 Example of the [circuit breaker pattern][2] in Python. Uses the [pybreaker][3]
 library.
 
-![Johnny Five][1]
-
 ## Setup
 
 ```bash
-$ git clone git@github.com:danriti/short-circuit.git
+$ git clone 
 $ cd short-circuit
 $ virtualenv .env
 $ source .env/bin/activate
@@ -39,6 +37,5 @@ $ python service_user.py
 
 Now visit `http://localhost:3000/` in your favorite browser!
 
-[1]: https://github.com/danriti/short-circuit/raw/master/johnny-five.jpg
+[1]: https://github.com/danielfm/pybreaker
 [2]: https://en.wikipedia.org/wiki/Circuit_breaker_design_pattern
-[3]: https://github.com/danielfm/pybreaker
