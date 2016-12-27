@@ -6,8 +6,8 @@ library.
 ## Setup
 
 ```bash
-$ git clone 
-$ cd short-circuit
+$ git clone https://github.com/RobinCAS/CircuitBreaker_py.git
+$ cd CircuitBreaker_py
 $ virtualenv .env
 $ source .env/bin/activate
 $ pip install -r requirements.txt
@@ -18,19 +18,19 @@ $ pip install -r requirements.txt
 Run the following command each in a separate terminal:
 
 ```bash
-$ cd short-circuit
+$ cd CircuitBreaker_py
 $ source .env/bin/activate
 $ python app.py
 ```
 
 ```bash
-$ cd short-circuit
+$ cd CircuitBreaker_py
 $ source .env/bin/activate
 $ python service_time.py
 ```
 
 ```bash
-$ cd short-circuit
+$ cd CircuitBreaker_py
 $ source .env/bin/activate
 $ python service_user.py
 ```
