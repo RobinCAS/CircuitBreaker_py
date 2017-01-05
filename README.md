@@ -2,7 +2,7 @@
 
 Example of the [circuit breaker pattern][2] in Python. Uses the [pybreaker][3]
 library.
-
+![image](https://cloud.githubusercontent.com/assets/14986670/21667111/264e2e2e-d2ab-11e6-92a0-33d8740c0e34.png)
 ## Setup
 
 ```bash
